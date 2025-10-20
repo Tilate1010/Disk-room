@@ -210,5 +210,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a60ca27de9dc45744b79bf6221c873ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCtrl
-  moveSpeed: 5
+  moveSpeed: 60
   rb: {fileID: 782796555887324700}
